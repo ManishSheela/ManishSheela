@@ -16,9 +16,9 @@
 
 - 🌱 I’m currently learning **Typescript**
   
-- 👨‍💻 All of my projects are available at [https://manish05.github.io](https://manish05.github.io) 
+- 👨‍💻 All of my work available at [https://manishsheela.github.io/portfolio/](Portfolio) 
 
-- 🧐 I'm interested in Coding, Sleeping, and Outdoor Games.
+- 🧐 I'm interested in Coding, web Development, and Outdoor Games.
   
 - 😎 My Fav. Quote: "It's never too late - never too late to start over, never too late to be happy."-
   
