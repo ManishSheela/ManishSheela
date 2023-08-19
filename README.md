@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Typescript**
   
-- 👨‍💻 All of my work available at [https://manishsheela.github.io/portfolio/](Portfolio) 
+- 👨‍💻 All of my work available at [Portfolio](https://manishsheela.github.io/portfolio/) 
 
 - 🧐 I'm interested in Coding, web Development, and Outdoor Games.
   
